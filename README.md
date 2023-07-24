@@ -6,7 +6,7 @@ Este es mi solución al reto "Interactive Card Details Form" de Frontend Mentor.
 
 ## Vista Previa
 
-Puedes ver la aplicación en funcionamiento haciendo clic en el siguiente enlace: [Vista Previa de la Aplicación](https://mi-app-en-vivo.com)
+Puedes ver la aplicación en funcionamiento haciendo clic en el siguiente enlace: [Vista Previa de la Aplicación](https://react-interactive-card.netlify.app/)
 
 ## Descripción del Reto
 
