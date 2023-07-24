@@ -26,7 +26,6 @@ const CardForm = ({ handleCard, setCard }) => {
     const thanks = useRef();
 
     const [error, setError] = useState("");
-    
 
     const handleChange = (e) => {
         const { value, name } = e.target;
@@ -42,7 +41,7 @@ const CardForm = ({ handleCard, setCard }) => {
 
     const handleSubmit = (e) => {
         e.preventDefault();
-        const textRegex = /^[A-Za-z]+$/;
+        const textRegex = /^[\p{L}\s]+$/u;
         const numberRegex = /^[0-9\s]+$/;
         const expMRegex = /^[0-2]+$/;
         const expYRegex = /^(?:2[4-9]|[3-9]\d+)$/;
