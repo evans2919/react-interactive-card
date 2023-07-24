@@ -29,7 +29,7 @@ Una vez que los usuarios ingresen estos detalles, la aplicación debe mostrar un
 ## Tecnologías Utilizadas
 
 - React: para construir la interfaz de usuario y gestionar los componentes interactivos.
-- HTML/CSS: para crear el diseño y la estructura visual de la aplicación.
+- HTML/CSS/TailwindCSS: para crear el diseño y la estructura visual de la aplicación.
 - JavaScript: para manejar la lógica y las interacciones del formulario.
 
 ## Cómo Ejecutar la Aplicación
